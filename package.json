@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/bhoon07/Hot-Resturant#readme",
   "dependencies": {
-    "integrity": "0.0.4"
+    "express": "^4.17.1",
+    "integrity": "0.0.4",
+    "require": "^2.4.20"
   }
 }
