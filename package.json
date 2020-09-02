@@ -1,0 +1,28 @@
+{
+  "name": "hot-resturant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reservations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhoon07/Hot-Resturant.git"
+  },
+  "keywords": [
+    "Hot",
+    "Resturant",
+    "Hot-Resturant"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhoon07/Hot-Resturant/issues"
+  },
+  "homepage": "https://github.com/bhoon07/Hot-Resturant#readme",
+  "dependencies": {
+    "integrity": "0.0.4"
+  }
+}
